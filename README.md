@@ -1,6 +1,8 @@
 # RSA
  A Practice in Implementing the RSA algoritm in Java 8
-
+ 
+ 
+## Alice wants to send an encrypted message to Bob
 ![Alice wants to send Encrypted text to Bob](https://github.com/ParkerBuckleyUKCS/RSA/blob/master/rsaExplanation.JPG)
 
 ### Security of the algorithm
