@@ -1,11 +1,3 @@
-/*
-Author: Parker Buckley
-Date Modified: 2/3/2020
-Purpose: A file based Join and select program that reads salary and location data
-	and aggregates into a single output.
-Class: CS405G
-File Name: prog0_BUCKLEY.java
-*/
 
 //preprocessor directive
 import java.io.*;
@@ -14,7 +6,7 @@ import java.math.BigInteger;
 import java.lang.*;
 
 public class rsa {
-	//global variables
+	
 	public static BigInteger modexp(BigInteger x, int a, BigInteger n)
 	{
 		BigInteger result = x;
