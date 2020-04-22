@@ -1,0 +1,21 @@
+/*
+		BigInteger a = new BigInteger(args[0]);
+		BigInteger b = new BigInteger(args[1]);
+		BigInteger c = new BigInteger(args[2]);
+		BigInteger officialresult = a.modPow(b,c);
+		BigInteger myResult = modexp(a,b,c);
+		System.out.println("My function: " + myResult);
+		System.out.println("modPow: " + officialresult);
+		
+		System.out.println("Random BigInteger of 100-150 digits: ");
+		System.out.println( getRandom() );
+		
+		BigInteger largePrime = generatePrime();
+		System.out.println("Large Prime: " + largePrime);
+		
+		BigInteger a = new BigInteger(args[0]);
+		BigInteger b = new BigInteger(args[1]);
+		BigInteger test = euclid(a,b);
+
+		System.out.println(a +"^-1 (mod " + b + " ) = " + test);
+*/
