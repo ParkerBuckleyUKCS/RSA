@@ -175,7 +175,7 @@ public class rsa {
 			//calculate a random integer to test for primality.
 			randomInt = getRandom();
 			/*calculate a random integer to mod. By Fermat's theorem,
-				For ANY a in {1,2,...,a-2},
+				For ANY a in {1,2,...,n-2},
 				a^(n-1) = 1 (mod n)
 
 				The n is a prime!!
